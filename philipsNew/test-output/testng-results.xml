@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-28T14:50:07 IST" name="Default suite" finished-at="2022-03-28T14:50:08 IST" duration-ms="75">
+    <groups>
+    </groups>
+    <test started-at="2022-03-28T14:50:07 IST" name="Default test" finished-at="2022-03-28T14:50:08 IST" duration-ms="75">
+      <class name="cutsomer.CreateCustomerTest">
+        <test-method signature="createCustomer()[pri:0, instance:cutsomer.CreateCustomerTest@61d6015a]" started-at="2022-03-28T14:50:08 IST" name="createCustomer" finished-at="2022-03-28T14:50:08 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+      </class> <!-- cutsomer.CreateCustomerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
